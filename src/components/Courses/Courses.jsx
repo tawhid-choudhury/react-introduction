@@ -11,7 +11,7 @@ const Courses = () => {
     },[])
     console.log(courses);
     return (
-        <div className="grid grid-cols-3 gap-6 mt-8">
+        <div className="grid grid-cols-3 gap-6 mt-8 mb-56">
             {courses.map((course,idx) =>
             <Course course = {course} key={`cardNo${idx}`}></Course>
             )}
