@@ -1,0 +1,65 @@
+[
+    {
+      "course_name": "Database Management Systems",
+      "image_url": "https://ibb.co/2ZbQ51p",
+      "description": "Learn about database design, SQL, and data management.",
+      "price": "65,000",
+      "credit_hours": "3"
+    },
+    {
+      "course_name": "Machine Learning Fundamentals",
+      "image_url": "https://ibb.co/6rR1tqK",
+      "description": "Introduction to machine learning algorithms and techniques.",
+      "price": "75,000",
+      "credit_hours": "4"
+    },
+    {
+      "course_name": "Operating Systems",
+      "image_url": "https://ibb.co/WvKptK4",
+      "description": "Study the principles and components of modern operating systems.",
+      "price": "58,000",
+      "credit_hours": "3"
+    },
+    {
+      "course_name": "Web Development",
+      "image_url": "https://ibb.co/txpB7TD",
+      "description": "Build dynamic websites using HTML, CSS, and JavaScript.",
+      "price": "45,000",
+      "credit_hours": "4"
+    },
+    {
+      "course_name": "Digital Electronics",
+      "image_url": "https://ibb.co/n8K683n",
+      "description": "Explore digital circuits, logic gates, and electronic design.",
+      "price": "70,000",
+      "credit_hours": "3"
+    },
+    {
+      "course_name": "Cybersecurity Fundamentals",
+      "image_url": "https://ibb.co/Rg7Vkgc",
+      "description": "Learn the basics of cybersecurity and threat prevention.",
+      "price": "62,000",
+      "credit_hours": "4"
+    },
+    {
+      "course_name": "Artificial Intelligence",
+      "image_url": "https://ibb.co/xJ7Bz6H",
+      "description": "Deep dive into AI, neural networks, and AI applications.",
+      "price": "80,000",
+      "credit_hours": "3"
+    },
+    {
+      "course_name": "Software Testing and Quality Assurance",
+      "image_url": "https://ibb.co/kGfg5xb",
+      "description": "Master testing methodologies and ensure software quality.",
+      "price": "54,000",
+      "credit_hours": "4"
+    },
+    {
+      "course_name": "Computer Graphics and Visualization",
+      "image_url": "https://ibb.co/6syMGv0",
+      "description": "Create stunning visuals and animations using computer graphics.",
+      "price": "68,000",
+      "credit_hours": "3"
+    }
+]
