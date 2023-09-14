@@ -3,63 +3,63 @@
     "course_name": "Database Management Systems",
     "image_url": "https://i.ibb.co/g4np6Lc/dbms.png",
     "description": "Learn SQL, data management, and DB design in this 3-credit course. Ideal for administrators.",
-    "price": "65,000",
+    "price": "65000",
     "credit_hours": "3"
   },
   {
     "course_name": "Machine Learning Fundamentals",
     "image_url": "https://i.ibb.co/gmMPWc0/mlf.jpg",
     "description": "Explore AI and data-driven techniques in this 4-credit course. Perfect for beginners.",
-    "price": "75,000",
+    "price": "75000",
     "credit_hours": "4"
   },
   {
     "course_name": "Operating Systems",
     "image_url": "https://i.ibb.co/CK0s203/operating-system-t.jpg",
     "description": "Get insights into modern OS principles in this 3-credit course. Designed for engineers.",
-    "price": "58,000",
+    "price": "58000",
     "credit_hours": "3"
   },
   {
     "course_name": "Web Development",
     "image_url": "https://i.ibb.co/CMKBk3Q/Web-Development.jpg",
     "description": "Master HTML, CSS, and JavaScript in this 4-credit web development course.",
-    "price": "45,000",
+    "price": "45000",
     "credit_hours": "4"
   },
   {
     "course_name": "Digital Electronics",
     "image_url": "https://i.ibb.co/h1TL1XZ/Digital-Electronics.jpg",
     "description": "Explore digital circuits and logic gates in this 3-credit electronics course.",
-    "price": "70,000",
+    "price": "70000",
     "credit_hours": "3"
   },
   {
     "course_name": "Cybersecurity Fundamentals",
     "image_url": "https://i.ibb.co/CwWT3wQ/Cybersecurity-Fundamentals.jpg",
     "description": "Master cybersecurity basics in this 4-credit course. Protect digital assets effectively.",
-    "price": "62,000",
+    "price": "62000",
     "credit_hours": "4"
   },
   {
     "course_name": "Artificial Intelligence",
     "image_url": "https://i.ibb.co/MMCtP76/Artificial-Intelligence.jpg",
     "description": "Unleash AI power with neural networks in this 3-credit course. Deep dive into AI.",
-    "price": "80,000",
+    "price": "80000",
     "credit_hours": "3"
   },
   {
     "course_name": "Software Testing and Quality Assurance",
     "image_url": "https://i.ibb.co/2FQ7WyV/Software-Testing-and-Quality-Assurance.jpg",
     "description": "Ensure software quality in this 4-credit course. Master testing methodologies effectively.",
-    "price": "54,000",
+    "price": "54000",
     "credit_hours": "4"
   },
   {
     "course_name": "Computer Graphics and Visualization",
     "image_url": "https://i.ibb.co/Bsfpv42/Computer-Graphics-and-Visualization.jpg",
     "description": "Create stunning visuals in this 3-credit course on computer graphics and visualization.",
-    "price": "68,000",
+    "price": "68000",
     "credit_hours": "3"
   }
 ]

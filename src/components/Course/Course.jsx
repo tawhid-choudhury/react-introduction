@@ -1,3 +1,4 @@
+import {  FaDollarSign, FaBookOpen } from "react-icons/fa";
 
 const Course = ({course}) => {
     console.log(course);
@@ -7,8 +8,8 @@ const Course = ({course}) => {
             <h3 className="text-lg font-semibold">{course.course_name}</h3>
             <p className="text-sm min-h-[72px]">{course.description}</p>
             <div className="flex justify-between">
-                <p className="text-sm">Price:{course.price}</p>
-                <p className="text-sm">Credit:{course.credit_hours}</p>
+                <p className="text-sm"><FaDollarSign className="inline-block" /> Price:{course.price}</p>
+                <p className="text-sm"><FaBookOpen className="inline-block "/> Credit:{course.credit_hours}</p>
             </div>
             <button className="bg-[#2F80ED] text-white text-center h-[40px] rounded-lg">Select</button>
         </div>
