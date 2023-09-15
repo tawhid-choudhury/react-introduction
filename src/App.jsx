@@ -17,7 +17,7 @@ function App() {
 
           {/* cart */}
           <div>
-
+        
           </div>
       </div>
     </div>

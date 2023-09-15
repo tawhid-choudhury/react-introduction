@@ -1,65 +1,65 @@
 [
   {
-    "course_name": "Database Management Systems",
-    "image_url": "https://i.ibb.co/g4np6Lc/dbms.png",
-    "description": "Learn SQL, data management, and DB design in this 3-credit course. Ideal for administrators.",
-    "price": "65000",
-    "credit_hours": "3"
+    "course_name": "Introduction to C Programming",
+    "image_url": "https://i.ibb.co/6wNQRNj/Rectangle-2-2.png",
+    "description": "Embark on a coding journey with Introduction to C Programming. This foundational course covers the basics of C programming, setting the stage for your programming career.",
+    "price": 15000,
+    "credit_hours": 1
   },
   {
-    "course_name": "Machine Learning Fundamentals",
-    "image_url": "https://i.ibb.co/gmMPWc0/mlf.jpg",
-    "description": "Explore AI and data-driven techniques in this 4-credit course. Perfect for beginners.",
-    "price": "75000",
-    "credit_hours": "4"
+    "course_name": "Introduction to Algorithms",
+    "image_url": "https://i.ibb.co/XzpQt3K/Rectangle-2-3.png",
+    "description": "Unlock the secrets of efficient problem-solving with Introduction to Algorithms. Dive into the world of algorithms and master techniques to tackle complex tasks.",
+    "price": 25000,
+    "credit_hours": 2
   },
   {
-    "course_name": "Operating Systems",
-    "image_url": "https://i.ibb.co/CK0s203/operating-system-t.jpg",
-    "description": "Get insights into modern OS principles in this 3-credit course. Designed for engineers.",
-    "price": "58000",
-    "credit_hours": "3"
+    "course_name": "Introduction to C++ for DSA",
+    "image_url": "https://i.ibb.co/P5BKDt6/Rectangle-2-4.png",
+    "description": "Supercharge your data structures and algorithms skills with Introduction to C++ for DSA. Explore C++ and gain expertise in solving computational challenges.",
+    "price": 10000,
+    "credit_hours": 10
   },
   {
-    "course_name": "Web Development",
-    "image_url": "https://i.ibb.co/CMKBk3Q/Web-Development.jpg",
-    "description": "Master HTML, CSS, and JavaScript in this 4-credit web development course.",
-    "price": "45000",
-    "credit_hours": "4"
+    "course_name": "Basic Data Structures",
+    "image_url": "https://i.ibb.co/VTsd5W3/Rectangle-3.png",
+    "description": "Build a strong foundation in programming with Basic Data Structures. Learn essential data structures to enhance your coding capabilities.",
+    "price": 35000,
+    "credit_hours": 5
   },
   {
-    "course_name": "Digital Electronics",
-    "image_url": "https://i.ibb.co/h1TL1XZ/Digital-Electronics.jpg",
-    "description": "Explore digital circuits and logic gates in this 3-credit electronics course.",
-    "price": "70000",
-    "credit_hours": "3"
+    "course_name": "Introduction to OOP Python",
+    "image_url": "https://i.ibb.co/FqmH1wP/Rectangle-2.png",
+    "description": "Embark on a Pythonic journey with Introduction to OOP Python. Explore the world of object-oriented programming and develop software with Python.",
+    "price": 19000,
+    "credit_hours": 5
   },
   {
-    "course_name": "Cybersecurity Fundamentals",
-    "image_url": "https://i.ibb.co/CwWT3wQ/Cybersecurity-Fundamentals.jpg",
-    "description": "Master cybersecurity basics in this 4-credit course. Protect digital assets effectively.",
-    "price": "62000",
-    "credit_hours": "4"
+    "course_name": "Software Engineering",
+    "image_url": "https://i.ibb.co/Syfrrqc/Rectangle-2-5.png",
+    "description": "Uncover the art of building robust software with Software Engineering. Dive into software development methodologies and industry best practices.",
+    "price": 23000,
+    "credit_hours": 2
   },
   {
-    "course_name": "Artificial Intelligence",
-    "image_url": "https://i.ibb.co/MMCtP76/Artificial-Intelligence.jpg",
-    "description": "Unleash AI power with neural networks in this 3-credit course. Deep dive into AI.",
-    "price": "80000",
-    "credit_hours": "3"
+    "course_name": "AWS, Cloud Computing",
+    "image_url": "https://i.ibb.co/fCw8Lj7/Rectangle-3-1.png",
+    "description": "Soar into the cloud with AWS and Cloud Computing. Explore the world of cloud technologies and harness the power of scalable computing.",
+    "price": 35000,
+    "credit_hours": 5
   },
   {
-    "course_name": "Software Testing and Quality Assurance",
-    "image_url": "https://i.ibb.co/2FQ7WyV/Software-Testing-and-Quality-Assurance.jpg",
-    "description": "Ensure software quality in this 4-credit course. Master testing methodologies effectively.",
-    "price": "54000",
-    "credit_hours": "4"
+    "course_name": "Database (MySQL)",
+    "image_url": "https://i.ibb.co/WG0t68K/Rectangle-2-1.png",
+    "description": "Dive into the world of databases with Database (MySQL). Learn the art of database management and design using the popular MySQL platform.",
+    "price": 19000,
+    "credit_hours": 5
   },
   {
-    "course_name": "Computer Graphics and Visualization",
-    "image_url": "https://i.ibb.co/Bsfpv42/Computer-Graphics-and-Visualization.jpg",
-    "description": "Create stunning visuals in this 3-credit course on computer graphics and visualization.",
-    "price": "68000",
-    "credit_hours": "3"
+    "course_name": "Problem-Solving Part",
+    "image_url": "https://i.ibb.co/P4RpRL3/Rectangle-2-6.png",
+    "description": "Enhance your problem-solving skills with the Problem-Solving Part course. Develop practical problem-solving techniques for real-world challenges.",
+    "price": 23000,
+    "credit_hours": 2
   }
 ]
