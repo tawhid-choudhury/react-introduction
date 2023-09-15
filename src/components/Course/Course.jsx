@@ -1,7 +1,8 @@
 import {  FaDollarSign, FaBookOpen } from "react-icons/fa";
+import PropTypes from 'prop-types';
 
-const Course = ({course}) => {
-    console.log(course);
+const Course = ({course, handleSelect}) => {
+    // console.log(course);
     return (
         <div className="max-w-[312px] p-4 flex flex-col justify-between h-[402px] bg-white rounded-xl text-[#1c1b1b99]">
             <img className="w-[280px] h-[144px] rounded-lg" src={course.image_url} alt="" />
@@ -11,9 +12,12 @@ const Course = ({course}) => {
                 <p className=""><FaDollarSign className="inline-block" /> Price: {course.price}</p>
                 <p className=""><FaBookOpen className="inline-block "/> Credit: {course.credit_hours}hr</p>
             </div>
-            <button className="bg-[#2F80ED] text-white text-center h-[40px] rounded-lg font-semibold">Select</button>
+            <button onClick={() => handleSelect(course)} className="bg-[#2F80ED] text-white text-center h-[40px] rounded-lg font-semibold">Select</button>
         </div>
     );
 };
-
+Course.propTypes = {
+    course: PropTypes.object,
+    handleSelect: PropTypes.func
+};
 export default Course;

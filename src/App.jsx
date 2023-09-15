@@ -1,7 +1,18 @@
 import './App.css'
 import Courses from './components/Courses/Courses'
+import Cart from './components/Cart/Cart'
+import { useState } from 'react'
 
 function App() {
+const [cart,setCart] = useState([]);
+
+const handleSelect = (item) => {
+  const exists = cart.find((i)=> i===item)
+  if(exists){
+    return alert("taken")
+  }
+  setCart([...cart, item]);
+}
 
   return (
     <div className='max-w-[1320px] m-auto'>
@@ -11,13 +22,13 @@ function App() {
       <div className='flex flex-wrap'>
           {/* cards container */}
           <div>
-            <Courses></Courses>
+            <Courses handleSelect={handleSelect}></Courses>
           </div>
 
 
           {/* cart */}
           <div>
-        
+        <Cart cart={cart}></Cart>
           </div>
       </div>
     </div>
