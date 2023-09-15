@@ -55,4 +55,4 @@ const handleSelect = (item) => {
   )
 }
 
-export default App
+export default App;
