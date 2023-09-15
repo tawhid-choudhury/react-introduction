@@ -29,20 +29,20 @@ const handleSelect = (item) => {
 }
 
   return (
-    <div className='max-w-[1320px] m-auto'>
+    <div className='max-w-[1320px] m-auto flex flex-col justify-center'>
       <h1 className='text-black text-[32px] font-bold text-center mt-[60px]'>Course Registration</h1>
       
       {/* container */}
-      <div className='flex'>
+      <div className='flex flex-col-reverse md:flex-row '>
       <Toaster/>
           {/* cards container */}
-          <div>
+          <div className='mx-auto'>
             <Courses handleSelect={handleSelect} ></Courses>
           </div>
 
 
           {/* cart */}
-          <div>
+          <div className='mx-auto'>
         <Cart 
         cart={cart} 
         creditTaken={creditTaken} 
