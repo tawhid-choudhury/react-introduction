@@ -23,7 +23,8 @@ const Cart = ({cart, creditTaken, creditRemaining, price}) => {
 Cart.propTypes = {
     cart: PropTypes.array,
     creditRemaining: PropTypes.number,
-    creditTaken : PropTypes.number
+    creditTaken : PropTypes.number,
+    price: PropTypes.number
   };
 
 export default Cart;
